@@ -12,9 +12,9 @@
 					}
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 10
 			},
-			"cluster-count": 8,
+			"cluster-count": 12,
 			"min-height": 40,
 			"max-height": 75,
 			"retrogen": "true",
@@ -40,7 +40,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 7,
+			"cluster-count": 10,
 			"min-height": 20,
 			"max-height": 55,
 			"retrogen": "true",
@@ -110,10 +110,10 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 12
 			},
-			"cluster-count": 4,
-			"min-height": 10,
+			"cluster-count": 5,
+			"min-height": 8,
 			"max-height": 35,
 			"retrogen": "true",
 			"biome": "all",
@@ -138,7 +138,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 4
 			},
-			"cluster-count": 2,
+			"cluster-count": 4,
 			"min-height": 5,
 			"max-height": 20,
 			"retrogen": "true",
@@ -152,7 +152,7 @@
 			}
 		},
 		"platinum": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -176,7 +176,7 @@
 			},
 			"cluster-count": 1,
 			"min-height": 5,
-			"max-height": 25,
+			"max-height": 10,
 			"retrogen": "true",
 			"biome": "all",
 			"dimension": {
@@ -188,7 +188,7 @@
 			}
 		},
 		"aluminum": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -200,7 +200,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 8,
+			"cluster-count": 12,
 			"min-height": 40,
 			"max-height": 75,
 			"retrogen": "true",
@@ -214,7 +214,7 @@
 			}
 		},
 		"iridium": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
