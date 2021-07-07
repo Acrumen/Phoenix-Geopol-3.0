@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<techguns:itemshared:118>);
 recipes.remove(<ic2:jetpack_electric:26>);
 recipes.remove(<ic2:jetpack:27>);
 recipes.remove(<mekanism:armoredjetpack>);
